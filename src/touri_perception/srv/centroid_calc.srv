@@ -1,0 +1,10 @@
+int32 x_start
+int32 y_start
+int32 x_end
+int32 y_end
+---
+bool estimated
+float32 x_reply
+float32 y_reply
+float32 z_reply
+float32 width
