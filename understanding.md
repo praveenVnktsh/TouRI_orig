@@ -14,3 +14,5 @@
     - Basically takes camera, sends to socket and gets back the bounding boxes. Nothing fancy.
 - `integrated_pipeline.py`
 
+final_ws/stretch_navigation
+calib_trail_ws for perception and manipulation
